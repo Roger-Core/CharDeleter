@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CharDeleter/static/css/main.a853fc59.chunk.css",
+    "main.js": "/CharDeleter/static/js/main.43c91f6d.chunk.js",
+    "main.js.map": "/CharDeleter/static/js/main.43c91f6d.chunk.js.map",
+    "runtime-main.js": "/CharDeleter/static/js/runtime-main.d50e2057.js",
+    "runtime-main.js.map": "/CharDeleter/static/js/runtime-main.d50e2057.js.map",
+    "static/js/2.ee512048.chunk.js": "/CharDeleter/static/js/2.ee512048.chunk.js",
+    "static/js/2.ee512048.chunk.js.map": "/CharDeleter/static/js/2.ee512048.chunk.js.map",
+    "index.html": "/CharDeleter/index.html",
+    "precache-manifest.15ad719fdc966ab35b706bb0acb6bdaf.js": "/CharDeleter/precache-manifest.15ad719fdc966ab35b706bb0acb6bdaf.js",
+    "service-worker.js": "/CharDeleter/service-worker.js",
+    "static/css/main.a853fc59.chunk.css.map": "/CharDeleter/static/css/main.a853fc59.chunk.css.map",
+    "static/js/2.ee512048.chunk.js.LICENSE.txt": "/CharDeleter/static/js/2.ee512048.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d50e2057.js",
+    "static/js/2.ee512048.chunk.js",
+    "static/css/main.a853fc59.chunk.css",
+    "static/js/main.43c91f6d.chunk.js"
+  ]
+}
